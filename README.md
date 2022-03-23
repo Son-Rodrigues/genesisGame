@@ -1,5 +1,6 @@
 # Gênesis Game
 
+
 #### Mais um projeto concluído. Dessa vez foi o game Gênesis.
 
 
@@ -11,3 +12,5 @@
 
 
 ##### Desenvolvido por Alisson Rodrigues.
+
+<img src="icon.svg"></img>
