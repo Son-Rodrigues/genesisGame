@@ -1,7 +1,7 @@
 # Genius Game
 
 
-#### Mais um projeto concluído. Dessa vez foi o game Gênesis.
+#### Mais um projeto concluído. Dessa vez foi o game Genius.
 
 
 ##### Habilidades usadas:
