@@ -1,4 +1,4 @@
-# Gênesis Game
+# Genius Game
 
 
 #### Mais um projeto concluído. Dessa vez foi o game Gênesis.
